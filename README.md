@@ -1,2 +1,2 @@
-# computerlab.github.io
+# nwcomputerlab.github.io
 Neill-Wycik Computer Lab Homepage
